@@ -1,0 +1,10 @@
+﻿  MainGame.cpp
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(71,14): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(128,36): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(133,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 482 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ASCIIRenderer.vcxproj -> C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\x64\Release\ASCIIRenderer.exe

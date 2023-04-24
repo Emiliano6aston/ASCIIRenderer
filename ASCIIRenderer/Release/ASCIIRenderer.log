@@ -1,0 +1,11 @@
+﻿  MainGame.cpp
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(67,14): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(127,36): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(132,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\ASprites.cpp(97): warning C4715: 'ASprite::collidepos': not all control paths return a value
+C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\ASCIIRenderer\ASprites.cpp(40): warning C4715: 'ASprite::getAt': not all control paths return a value
+  All 472 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ASCIIRenderer.vcxproj -> C:\Users\emi6a\source\repos\QuarkGJ3-G4\ASCIIRenderer\Release\ASCIIRenderer.exe
