@@ -1,0 +1,5 @@
+﻿  MainGame.cpp
+C:\Users\emi6a\source\repos\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(71,14): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\emi6a\source\repos\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(128,36): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\emi6a\source\repos\ASCIIRenderer\ASCIIRenderer\MainGame.cpp(133,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ASCIIRenderer.vcxproj -> C:\Users\emi6a\Source\Repos\ASCIIRenderer\x64\Debug\ASCIIRenderer.exe

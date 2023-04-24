@@ -162,7 +162,7 @@ int game() {
 			b1->ypos = 27;
 			dirx = 1;
 			diry = -1;
-			puntaje -= 1000;
+			puntaje -= 100;
 			speed -= 25;
 
 			if (ps == 1) { PlaySound(TEXT("Fhit.wav"), NULL, SND_ASYNC); ps = 0; }
