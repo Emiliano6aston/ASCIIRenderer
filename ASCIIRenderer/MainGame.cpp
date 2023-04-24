@@ -174,7 +174,7 @@ int game() {
 		if (s1->collide(b1)){
 			puntaje++;
 			diry = -1;
-			if (s1->collidepos(b1).x < 4) {
+			if (s1->collidepos(b1).x < 3) {
 				dirx = -2;
 			}
 			if (s1->collidepos(b1).x > 4) {
